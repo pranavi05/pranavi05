@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranavi Polisetty</h1>
 <p align="center">
-  <em>A passionate tech enthusiast & B.Tech 4th-year student.</em>
+  <em>Final-year B.Tech student with a love for building and learning.</em>
 </p>
-
----
 ---
 
 ## 🎨 Tech Stack
@@ -45,7 +43,7 @@
 ## 📜 Certifications
 
 ✅ Machine Learning – IBM  
-✅ SQL (Basic) – HackerRank  
+✅ SQL – HackerRank  
 
 ---
 
