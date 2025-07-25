@@ -4,13 +4,6 @@
 </p>
 
 ---
-
-## 🎯 About Me
-
-- 🌱 Exploring Spring Boot, OAuth, and backend integration  
-- 💬 Ask me about: `Java`, `MySQL`, `Prompt Engineering`, `System Design`  
-- 🚀 I love building things that make a difference  
-
 ---
 
 ## 🎨 Tech Stack
@@ -35,7 +28,6 @@
 ## 🏆 Achievements
 
 💼 Finance Lead @ GDG On Campus – PACE  
-🚀 Organizer of GDG WoW 2025 @ GITAM  
 🎯 Internships at **42Learn** and **CodeTantra**
 
 ---
