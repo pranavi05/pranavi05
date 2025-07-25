@@ -2,7 +2,6 @@
 <p align="center">
   <em>Final-year B.Tech student with a love for building and learning.</em>
 </p>
----
 
 ## 🎨 Tech Stack
 
