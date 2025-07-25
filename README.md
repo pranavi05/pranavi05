@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hey!;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Pranavi Polisetty</h1>
 <p align="center">
   <em>Final-year B.Tech student with a love for building and learning.</em>
